@@ -52,6 +52,18 @@ PrefabInstance:
       propertyPath: 'm_Materials.Array.data[0]'
       value: 
       objectReference: {fileID: 2100000, guid: 10e4da7ceb8cc594ea4337664bd0205e, type: 2}
+    - target: {fileID: -7093727176934746916, guid: e780fcb40b3009a489100266761c8010, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0.00014
+      objectReference: {fileID: 0}
+    - target: {fileID: -7093727176934746916, guid: e780fcb40b3009a489100266761c8010, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -7093727176934746916, guid: e780fcb40b3009a489100266761c8010, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -0
+      objectReference: {fileID: 0}
     - target: {fileID: -6408934924688264215, guid: e780fcb40b3009a489100266761c8010, type: 3}
       propertyPath: m_LocalScale.x
       value: 37464.38
@@ -84,6 +96,10 @@ PrefabInstance:
       propertyPath: 'm_Materials.Array.data[0]'
       value: 
       objectReference: {fileID: 2100000, guid: f7873fcb62f50594a84b5c07584dfc56, type: 2}
+    - target: {fileID: -4683669308469848369, guid: e780fcb40b3009a489100266761c8010, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 61edc04163ac38a4e8627b5d52cdae45, type: 2}
     - target: {fileID: -2581677607450351497, guid: e780fcb40b3009a489100266761c8010, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
       value: 
@@ -94,7 +110,19 @@ PrefabInstance:
       objectReference: {fileID: 2100000, guid: 4cd6c70303849dc4ca57622188d22829, type: 2}
     - target: {fileID: 919132149155446097, guid: e780fcb40b3009a489100266761c8010, type: 3}
       propertyPath: m_Name
-      value: Anime_character
+      value: Bianca
+      objectReference: {fileID: 0}
+    - target: {fileID: 4819676581719043753, guid: e780fcb40b3009a489100266761c8010, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0.00002
+      objectReference: {fileID: 0}
+    - target: {fileID: 4819676581719043753, guid: e780fcb40b3009a489100266761c8010, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4819676581719043753, guid: e780fcb40b3009a489100266761c8010, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -0
       objectReference: {fileID: 0}
     - target: {fileID: 4872263653411019301, guid: e780fcb40b3009a489100266761c8010, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
